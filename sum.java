@@ -9,6 +9,6 @@ class sum
          System.out.print("Enter second num:");
          int b=obj.nextInt();
          int c=a+b;
-         System.out.print("Sum is: "+c);
+         System.out.print(": "+c);
     }
 }
